@@ -3,7 +3,7 @@
 --------------------------------------------------
 A ~~Twitter~~ Mastodon bot that tweets words from a dictionary, with optional prefix and postfix pre/ap-pended.
 
-Based on twitter.com/assaultwords (RIP).
+Based on github.com/theodric/assaultbot ( https://twitter.com/assaultwords (RIP)).
 
 You will need to edit the script and insert your Twitter API details, or it will not work! Fill out the form at https://apps.twitter.com/ and populate the generated details in the indicated locations within the script.
 
