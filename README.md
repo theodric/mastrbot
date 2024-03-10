@@ -5,9 +5,9 @@ A ~~Twitter~~ Mastodon bot that tweets words from a dictionary, with optional pr
 
 Based on https://github.com/theodric/assaultbot (formerly live at - inter alia - https://twitter.com/assaultwords (RIP)).
 
-You will need to edit the script and insert your Twitter API details, or it will not work! Fill out the form at https://apps.twitter.com/ and populate the generated details in the indicated locations within the script.
+You will need to edit the script and insert your Mastodon instance and API details, or it will not work! Fill out the form at https://[your-mastodon-instance]/settings/applications and populate the generated details in the indicated locations within the script. I hear https://botsin.space/auth/edit is a potentially bot-friendly instance.
 
-Also be sure to install the required libraries using the provided requirements file.
+Also, be sure to install the required libraries using the provided requirements file after the usual fashion.
 
 ```bash
 pip install -r requirements.txt
